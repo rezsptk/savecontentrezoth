@@ -7,33 +7,33 @@
         "Save restricted content",
         "bot"
     ],
-    "repository": "https://github.com/vasusen-code/SaveRestrictedContentBot",
+    "repository": "https://github.com/rezsptk/savecontentrezoth",
     "website": "",
-    "success_url": "https://t.me/DroneBots",
+    "success_url": "https://t.me/rezothcontent",
     "env": {
         "API_HASH": {
             "description": "Your API HASH from my.telegram.org",
-            "value": ""
+            "value": "93b9f6ecc9c549f13e85af0c4a519fbd"
         },
         "API_ID": {
             "description": "Your API ID from my.telegram.org",
-            "value": ""
+            "value": "11195557"
         },
         "BOT_TOKEN": {
             "description": "Bot token, get it from @BotFather.",
-            "value": ""
+            "value": "5461289063:AAG5G8CbyZGhjNJ4WChxwXhKMn3WtHS9T6w"
         },
         "SESSION": {
             "description": "Pyrogram string session.",
-            "value": ""
+            "value": "AQBIhU0V_fYd2bP5ZnUEpI8boYD5D_ctB9SOzCadg7e805jQzt4KssZ9dxGESqzVZRszoK6AjWoOHOHTirUnLhPGDWnw7mJxgZTobLOVV0SMOb0s29SLdIcHGIN6Z2lkYQ1FPq8qYQ-cVymCCzGFnjpGHKS1SVctSvVdI6TvequeJazc4X4wzX1B9Jq5pe3A5at-zKn0gXVltswNl857-ho9wvfErAFIBMvL32Pfi0flfPy-TH9e4Ps6p6OaDz__St2zvFmFy45i1o8F7yA02UNoFuShld_MLKIDLwa36OmxhNePIfs9rASgSRfWyOzlpUuVDUMgS_jr5wknT3Ljlh6GAAAAASsPZCcA"
         },
         "AUTH": {
             "description": "User ID of Bot owner.",
-            "value": ""
+            "value": "5017396263"
         },
         "FORCESUB": {
             "description": "Username name of public channel without using '@'.",
-            "value": ""
+            "value": "rezothcontent"
         }
     },
     "buildpacks": [
